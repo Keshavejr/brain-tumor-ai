@@ -1,0 +1,16 @@
+# ML / DATA
+dataset/
+predictor/models/
+
+# Django
+media/
+staticfiles/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
