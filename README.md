@@ -30,5 +30,5 @@ They are automatically downloaded on first run.
 
 ### Manual Download (optional)
 - EfficientNet: https://drive.google.com/uc?id=1kFXsRY9ChEAz2ky-3JSF6rxopDErYYxb
-- Custom CNN: https://drive.google.com/uc?id=1bSE5OmF0Ql-ji72nIC7jGjxgH1bqd5bh
+
 Place inside:

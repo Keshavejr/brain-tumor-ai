@@ -17,6 +17,9 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib.units import inch
 from datetime import datetime
+from predictor.download_models import download_models
+
+download_models()
 
 MODEL_PATH = os.path.join(BASE_DIR, "predictor", "models", "efficientnet_model.keras")
 model = None
